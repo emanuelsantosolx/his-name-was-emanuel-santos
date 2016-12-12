@@ -8,3 +8,7 @@
 ## Redis
 
 * [Simple way to start playing with Redis](http://try.redis.io/)
+
+## PHP
+
+* [PHP 7.1 vs. 7.0 performance benchmarks with Symfony](https://www.symfony.fi/entry/php-7-1-vs-7-0-benchmarks-symfony)
