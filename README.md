@@ -12,3 +12,7 @@
 ## PHP
 
 * [PHP 7.1 vs. 7.0 performance benchmarks with Symfony](https://www.symfony.fi/entry/php-7-1-vs-7-0-benchmarks-symfony)
+
+## Clean Code
+
+* [How to Design Exception Hierarchies](https://blogs.msdn.microsoft.com/kcwalina/2007/01/30/how-to-design-exception-hierarchies/)
