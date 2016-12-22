@@ -16,3 +16,5 @@
 ## Clean Code
 
 * [How to Design Exception Hierarchies](https://blogs.msdn.microsoft.com/kcwalina/2007/01/30/how-to-design-exception-hierarchies/) - An article abount logical errors and system failures. Explains how to structure exceptions and how to identify them.
+
+"One man’s exceptional condition is another man’s chronic condition"
