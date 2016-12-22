@@ -13,8 +13,12 @@
 
 * [PHP 7.1 vs. 7.0 performance benchmarks with Symfony](https://www.symfony.fi/entry/php-7-1-vs-7-0-benchmarks-symfony)
 
-## Clean Code
+## Error handling
+
+"One man’s exceptional condition is another man’s chronic condition"
 
 * [How to Design Exception Hierarchies](https://blogs.msdn.microsoft.com/kcwalina/2007/01/30/how-to-design-exception-hierarchies/) - An article abount logical errors and system failures. Explains how to structure exceptions and how to identify them.
 
-"One man’s exceptional condition is another man’s chronic condition"
+## Tools
+
+* [Fake Data Generator](http://json-schema-faker.js.org/) - A Fake Data Generator for seeding and bulk testing
