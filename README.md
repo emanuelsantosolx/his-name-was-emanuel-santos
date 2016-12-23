@@ -22,3 +22,7 @@
 ## Tools
 
 * [Fake Data Generator](http://json-schema-faker.js.org/) - A Fake Data Generator for seeding and bulk testing.
+
+## Clean Code
+
+* [Source Making](https://sourcemaking.com) - Design Patterns, AntiPatterns and Refactoring techniques.
