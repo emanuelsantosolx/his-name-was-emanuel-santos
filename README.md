@@ -26,3 +26,4 @@
 ## Clean Code
 
 * [Source Making](https://sourcemaking.com) - Design Patterns, AntiPatterns and Refactoring techniques.
+* [The Clean Code Blog](http://blog.cleancoder.com/) - Uncle Bob's second home.
