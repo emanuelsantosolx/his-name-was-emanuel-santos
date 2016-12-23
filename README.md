@@ -4,6 +4,7 @@
 
 * [Awesome Doctrine](https://github.com/TomasVotruba/awesome-doctrine) - A collection of links related to Doctrine 2.
 * [Doctrine 2 Best Practices](http://docs.doctrine-project.org/projects/doctrine-orm/en/latest/reference/best-practices.html) - From the official documentation. RFTM, brah.
+* [Effective Doctrine 2](http://www.slideshare.net/marcinchwedziak/effective-doctrine2-performance-tips-for-symfony2-developers-33907944) - More Doctrine 2 best practice material.
 
 ## Redis
 
