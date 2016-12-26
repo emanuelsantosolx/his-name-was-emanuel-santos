@@ -35,4 +35,4 @@
 
 ## Microservices
 
-* [Microservices material](https://github.com/dbelcham/microservice-material)
+* [Microservices material](https://github.com/dbelcham/microservice-material) - A collection of cool articles related to microservices.
