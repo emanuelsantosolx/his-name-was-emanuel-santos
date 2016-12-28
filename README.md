@@ -13,6 +13,7 @@
 ## PHP
 
 * [PHP 7.1 vs. 7.0 performance benchmarks with Symfony](https://www.symfony.fi/entry/php-7-1-vs-7-0-benchmarks-symfony)
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries.
 
 ## Error handling
 
