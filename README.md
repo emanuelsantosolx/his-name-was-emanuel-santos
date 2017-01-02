@@ -1,4 +1,4 @@
-# His name as Emanuel Santos
+# His name was Emanuel Santos
 
 ## Doctrine 2
 
