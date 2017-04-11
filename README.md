@@ -26,7 +26,7 @@
 ## Tools
 
 * [Fake Data Generator](http://json-schema-faker.js.org/) - A Fake Data Generator for seeding and bulk testing.
-* [Google Spreadsheets and PHP] (https://www.twilio.com/blog/2017/03/google-spreadsheets-and-php.html) - How to access and manipulate Google Spreadsheets with PHP.
+* [Google Spreadsheets and PHP](https://www.twilio.com/blog/2017/03/google-spreadsheets-and-php.html) - How to access and manipulate Google Spreadsheets with PHP.
 
 ## Clean Code
 
