@@ -12,10 +12,16 @@
 
 ## PHP
 
+### Generic
+
 * [PHP 7.1 vs. 7.0 performance benchmarks with Symfony](https://www.symfony.fi/entry/php-7-1-vs-7-0-benchmarks-symfony)
 * [Awesome PHP](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries.
 * [Composer Namespaces in 5 Minutes](https://jtreminio.com/2012/10/composer-namespaces-in-5-minutes/)
 * [Composer and PSR-0: Friends, Not Relatives](https://philsturgeon.uk/php/2013/05/07/composer-and-psr0-friends-not-relatives/)
+
+### API development
+
+* [Building a decent API](https://philsturgeon.uk/api/2013/07/12/building-a-decent-api/)
 
 ## Error handling
 
