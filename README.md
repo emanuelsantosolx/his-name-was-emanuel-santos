@@ -23,6 +23,10 @@
 
 * [Building a decent API](https://philsturgeon.uk/api/2013/07/12/building-a-decent-api/)
 
+## TensorFlow
+
+* [TensorFlow examples](https://github.com/aymericdamien/TensorFlow-Examples)
+
 ## Error handling
 
 "One man’s exceptional condition is another man’s chronic condition"
