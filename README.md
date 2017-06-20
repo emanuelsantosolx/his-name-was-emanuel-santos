@@ -1,5 +1,9 @@
 # His name was Emanuel Santos
 
+## Testing
+
+* [Testing Keeps Me From Getting Things Done] (https://thephp.cc/news/2017/05/testing-keeps-me-from-getting-things-done)
+
 ## Doctrine 2
 
 * [Awesome Doctrine](https://github.com/TomasVotruba/awesome-doctrine) - A collection of links related to Doctrine 2.
