@@ -2,7 +2,7 @@
 
 ## Testing
 
-* [Testing Keeps Me From Getting Things Done] (https://thephp.cc/news/2017/05/testing-keeps-me-from-getting-things-done)
+* [Testing Keeps Me From Getting Things Done](https://thephp.cc/news/2017/05/testing-keeps-me-from-getting-things-done)
 
 ## Doctrine 2
 
