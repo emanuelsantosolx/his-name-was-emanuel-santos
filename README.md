@@ -54,3 +54,4 @@
 ## Microservices
 
 * [Microservices material](https://github.com/dbelcham/microservice-material) - A collection of cool articles related to microservices.
+* [Designing a Microservices Architecture for Failure](https://blog.risingstack.com/designing-microservices-architecture-for-failure/)
