@@ -20,6 +20,10 @@
 
 * [Go by example](https://gobyexample.com/)
 
+## Solr
+
+* [Solr Query Syntax Basics](https://gist.github.com/mankyKitty/5906859)
+
 ### Generic
 
 * [PHP 7.1 vs. 7.0 performance benchmarks with Symfony](https://www.symfony.fi/entry/php-7-1-vs-7-0-benchmarks-symfony)
